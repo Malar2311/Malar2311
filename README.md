@@ -29,6 +29,12 @@ A simple academic project focused on analyzing student performance using data wa
 Staff can manage teams and course structures, while students can view courses and study based on their interests.  
 This was my first project in DWDM, aimed at understanding core concepts and basic analysis.
 
+🦠 **COVID-19 Live Tracker Dashboard**
+- Built an interactive dashboard using **Python, Streamlit, Pandas, and Plotly**
+- Visualizes real-time COVID-19 data for **200+ countries**
+- Includes country comparison, global map, trend analysis, and CSV download
+- Deployed using **Streamlit Community Cloud**
+
 📈 **Beginner Data Science Projects** *(learning phase)*  
 Hands-on practice with data analysis and introductory ML models
 
