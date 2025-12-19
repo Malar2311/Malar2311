@@ -20,7 +20,7 @@
 
 🛒 **StreetCart Supply Hub** (PHP, MySQL)  
 Web-based supply management system developed during and after a hackathon
-
+  
 🌐 **MERN Stack Projects**  
 Full-stack web applications built using React, Node.js, Express, and MongoDB
 
@@ -34,6 +34,12 @@ This was my first project in DWDM, aimed at understanding core concepts and basi
 - Visualizes real-time COVID-19 data for **200+ countries**
 - Includes country comparison, global map, trend analysis, and CSV download
 - Deployed using **Streamlit Community Cloud**
+
+☁️ **Smart Attendance System** (AWS | Team Project)
+- Built a serverless cloud-based attendance system using AWS
+- Allows staff to upload student images via a web interface
+- Processes requests using API Gateway and AWS Lambda
+- Stores attendance records in DynamoDB and images in Amazon S3
 
 📈 **Beginner Data Science Projects** *(learning phase)*  
 Hands-on practice with data analysis and introductory ML models
