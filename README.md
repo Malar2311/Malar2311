@@ -1,7 +1,7 @@
 👋 Hi, I am Malar S
 
 🎓 Computer Science Engineering student  
-💻 Interested in Full-Stack Software Development and learning Data Science  
+💻 Interested in Full-Stack Software Development and Data Science  
 📌 Focused on building real-world academic and personal projects
 
 ---
