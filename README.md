@@ -12,7 +12,7 @@
   *(Basic knowledge of C, C++, Java, and Python)*
 - **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js), HTML, CSS
 - **Databases:** MySQL, MongoDB
-- **Data Science (Learning):** Data analysis fundamentals, basic machine learning concepts
+- **Data Science:** Data analysis fundamentals, basic machine learning concepts
 
 ---
 
